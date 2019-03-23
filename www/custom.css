@@ -1,0 +1,68 @@
+body,.content-wrapper {
+    position: relative;
+    width: 100%;
+    /* padding-top: 150px; */
+    /* padding-bottom: 100px; */
+    color: #fff;
+    background: url(https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-pattern.png),#0e0119;
+    background: url(https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-pattern.png),-webkit-gradient(linear,right top,left top,from(#ffffff),to(#0e0119));
+    background: url(https://blackrockdigital.github.io/startbootstrap-new-age/img/bg-pattern.png),linear-gradient(to left,#ffffff,#0e0119);
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    color: black;
+}
+
+div#resultado {
+    background: #dd4b39;
+}
+
+
+div#resultado2 {
+    background: green;
+}
+
+
+.table {
+    background: #ffffff;
+    color: black;
+}
+
+.skin-purple .main-header .navbar {
+    background: white;
+}
+
+.skin-purple .main-header .logo {
+    background: #db0442;
+}
+
+.skin-purple .left-side, .skin-purple .main-sidebar, .skin-purple .wrapper {
+    background-color: #ffffff40;
+    color: black;
+}
+
+.sidebar {
+    color: black;
+}
+
+.skin-purple .sidebar-menu>li.active>a, .skin-purple .sidebar-menu>li:hover>a {
+    background: white;
+    color: black;
+}
+
+.skin-purple .sidebar a {
+    color: black;
+    border: 1px dotted;
+}
+
+.skin-purple .main-header .logo:hover {
+    background: black;
+}
+
+.skin-purple .main-header .navbar .sidebar-toggle:hover {
+    background: #ee003d;
+}
